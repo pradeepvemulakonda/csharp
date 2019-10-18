@@ -1,3 +1,5 @@
+ C# way of catering for functional pointers, quite similar to how javascript does the scope management for functions.
+ 
  ```csharp
  using System;
 
